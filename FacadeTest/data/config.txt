@@ -1,0 +1,36 @@
+window.aspect.min=1
+window.aspect.max=1
+
+window.pos.min=0
+window.pos.max=0
+
+# absolute units in CM
+window.height.min=50
+window.height.max=300
+
+# inset for window frames
+windows.bleed=10
+
+exit.width.min=80
+exit.height.min=210
+
+facade.width=3000
+facade.height=350
+
+segments.count=4
+segments.border=50
+
+segments.0=0.3
+segments.1=0.5
+segments.2=0.075
+segments.3=0.125
+
+segments.0.exit=false
+segments.1.exit=true
+segments.2.exit=true
+segments.3.exit=false
+
+segments.0.light=0.4
+segments.1.light=0.3
+segments.2.light=0.05
+segments.3.light=0.25
